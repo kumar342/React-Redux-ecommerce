@@ -1,7 +1,5 @@
 A fully functional E-Commerce site created using React-Redux.
 
-Visit: https://shop-e-cart.herokuapp.com/
-
 Key features:
 
 1. Pagination
